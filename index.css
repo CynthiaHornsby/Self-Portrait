@@ -1,0 +1,220 @@
+a {
+        color: #14304c;
+}
+.row .col {
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.row .col {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.skillsetdiv {
+    background-color: #8ec6ff;
+    border-bottom: 2px solid #43a0ff;
+    height: 28em;
+    margin: 0;
+}
+.introductiontext{
+    background-color: #FFA243;
+    position: relative;
+    border-bottom: 4px solid #ff8910;
+    border-top: 4px solid #ff8910;
+
+}
+.introname, .introtext{
+    font-family: 'Crimson Text', serif;
+    color: #14304c;
+}
+.introname{
+    font-size: 3em;
+}
+.introtext {
+    position: relative;
+    bottom: 1.5em;
+    font-size: 1.5em;
+}
+.skilltype{
+    font-family: 'Crimson Text', serif;
+    color: #14304c;
+}
+.aboutmediv {
+    background: #ffecd9;
+    margin: 0;
+}
+.btn-floating.btn-large {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 2.3em;
+    background-color: #8ec6ff;
+    box-shadow: none;
+    border-bottom: 1px solid #ffecd9;
+}
+.gallerydiv {
+    background-color: #8ec6ff;
+}
+.websitesdiv {
+    position: relative;
+    background-color: #8ec6ff;
+    margin-bottom: 0px;
+    border-bottom: 3em solid #8ec6ff;
+}
+.websitesdiv img {
+    border-radius: 5px;
+}
+.webimageone {
+    background-color: #b3d9ff;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.webimagetwo {
+    background-color: #43a0ff;
+
+}
+.webimagethree {
+    background-color: #d9ecff;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+.apptitle {
+    background-color: #55a9ff;
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 0;
+}
+.websectiontitle {
+    font-family: 'Merienda One', cursive;
+    font-size: 3.5em;
+    color: #14304c;
+    margin: 0px;
+    padding: 1.5em 0 1.5em 0em;
+}
+.aboutmetitle {
+    font-family: 'Merienda One', cursive;
+    font-size: 3.5em;
+    color: #14304c;
+    margin: 0px;
+    position: relative;
+    bottom: .6em;
+}
+.aboutmesection {
+    background-color: #ffecd9;
+    margin: 0;
+    height: 27em;
+    border-bottom: 2px solid #43a0ff;
+}
+.aboutmetext {
+    font-family: 'Crimson Text', serif;
+    color: #14304c;
+    font-size: 1.4em;
+    width: 90%;
+    position: relative;
+    left: 10px;
+}
+.selfportrait {
+    position: relative;
+    bottom: 15em;
+    margin: 0;
+    padding: 0;
+}
+.artgallerytitle {
+    font-family: 'Merienda One', cursive;
+    font-size: 3.5em;
+    color: #14304c;
+    margin: 0px;
+    position: relative;
+    bottom: .5em;
+}
+.contacttitle {
+    font-family: 'Merienda One', cursive;
+    font-size: 3.5em;
+    color: #14304c;
+    margin: 0px;
+    padding: 1em 0 1em .6em;
+}
+.artgallerydiv {
+    background-color: #ffecd9;
+    border-top: 2px solid #43a0ff;
+    margin: 0;
+    
+}
+.artgalleryimagediv {
+    background-color: #ffecd9;
+    margin: 0;
+    padding-bottom: 2em;
+}
+.carousel {
+    position: relative;
+    bottom: 3em;
+}
+.contactdiv {
+    background-color: #FFA243;
+    margin: 0;
+}
+.contacttitle {
+    background-color: #FFA243;
+    margin: 0;
+    padding: .2em;
+    border-bottom: 2px solid #ff8910;
+    border-top: 2px solid #ff8910;
+}
+.test {
+    background-color: #8ec6ff;
+    border-bottom: 2px solid #14304c;
+    margin: 0;
+}
+.footer {
+    height: 50px;
+    background: url("https://orig00.deviantart.net/dcf7/f/2018/058/0/6/rainingblueflat_by_ciress-dc4g768.gif");
+    background-repeat: none;
+    background-position: center bottom;
+    border-bottom: 4px solid #14304c;
+}
+.modal {
+    background-color: #8ec6ff;
+    border-top: 1px solid #FFA243;
+    border-bottom: 1px solid #FFA243;
+}
+.modal .modal-footer {
+    background-color: #43a0ff;
+}
+.modal-content{
+    color: #14304c;
+}
+.artisticon {
+    position: relative;
+    top: 1em;
+}
+.fullstackicon{
+    position: relative;
+    top: 1em;
+}
+.htmlicon {
+    position: relative;
+    top: 1.2em;
+}
+.contactinformation {
+    font-family: 'Crimson Text', serif;
+    color: #14304c;
+    font-size: 1.4em;
+}
+@media only screen and (max-width: 600px) {
+    .skillsetdiv {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .btn-floating.btn-large {
+        position: relative;
+        bottom: 1.5em;
+    }
+    .websectiontitle {
+        padding-left: 1em;
+    }
+}
